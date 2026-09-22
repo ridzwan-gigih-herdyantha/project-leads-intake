@@ -1,4 +1,4 @@
-# [NAMA AGENCY] — Lead capture site
+# [Ridzone Leads] — Lead capture site
 
 Minimal Next.js (App Router) + TypeScript + Tailwind lead-capture landing page. Submissions are validated with zod and forwarded server-side to an n8n webhook.
 

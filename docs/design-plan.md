@@ -230,7 +230,7 @@ menyesuaikan parsing di sana — akan diperiksa saat implementasi).
 
 Pertanyaan konkret buat kamu:
 
-1. Nama placeholder `[NAMA AGENCY]` mau diganti apa? Kalau belum diputuskan,
+1. Nama placeholder `[Ridzone Leads]` mau diganti apa? Kalau belum diputuskan,
    aku pakai `studio.` (lowercase, dengan titik) sebagai brand mark sementara.
 2. Radio "Yang kamu butuhkan" — sudah cukup dengan 4 opsi (Web / Aplikasi /
    Otomasi / Lain)? Atau ada kategori lain yang mau kamu tampilkan?
